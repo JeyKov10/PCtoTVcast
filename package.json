@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "chromecast-api": "^0.4.2"
+    "chromecast-api": "^0.4.2",
+    "screenshot-desktop": "^1.15.7"
   }
 }
